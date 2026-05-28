@@ -53,7 +53,11 @@ Ipl deliveries_upto_2025;
 
 ## Project Structure
 IPL_EDA_PROJECT/
+
 │
+
 ├── DATASET/
+
 ├── SQL_QUERY/
+
 └── README.m
