@@ -44,6 +44,7 @@ Ipl deliveries_upto_2025;
 
 ## Key Insights
 - Mumbai Indians And Chennai Super Kings won the highest IPL trophies.
+- Last Trophy Won By Royal Challenger Benglore
 - Virat Kohli scored the highest IPL runs.
 - Yuzvendra Chahal among highest wicket takers.
 - Chris Gayle has one of the best strike rates.
